@@ -5,11 +5,11 @@ Welcome to the Data Analysis Case Studies repository! This repository contains a
 case studies implemented using Python. Each case study provides practical examples and insights into various data analysis 
 techniques, data visualization, and statistical analysis.
 
-*Table of Contents* \n
-Introduction
-Requirements
-Usage
-Contributing
+*Table of Contents* 
+Introduction |
+Requirements |
+Usage |
+Contributing |
 
 Introduction:
 Data analysis is a crucial skill for extracting valuable insights from data and making informed decisions. This repository 
